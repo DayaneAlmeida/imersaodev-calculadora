@@ -2,7 +2,7 @@
 Projeto construído durante a 2º aula da Imersão Dev proporcionado pela Alura.
 
 
----------->AULA 02 IMERSÃO DEV---------
+---------->AULA 02 IMERSÃO DEV---------(texto da Imersão Dev do Alura)
 CALCULADORA E LAÇOS CONDICIONAIS NO JAVASCRIPT
 PARTICIPE E VÁ MAIS FUNDO
 Nesta segunda aula da Imersão Dev, vamos criar uma calculadora, que realiza as principais operações! O código da aula inicial para você acompanhar está aqui:
